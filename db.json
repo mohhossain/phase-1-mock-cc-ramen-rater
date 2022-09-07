@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "A new ramen",
+      "restaurant": "Best restaurant",
+      "image": "https://media.istockphoto.com/photos/ramen-noodles-in-soy-sauce-flavored-soup-picture-id1144177675?b=1&k=20&m=1144177675&s=170667a&w=0&h=V9L3BAYk-Vg0QmXzTmyHTwfZKPstKHJi19AOn-9pKCg=",
+      "rating": "10",
+      "comment": "Delicious!!",
+      "id": 6
     }
   ]
 }
